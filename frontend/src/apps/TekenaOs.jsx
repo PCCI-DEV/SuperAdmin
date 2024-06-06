@@ -20,7 +20,7 @@ const DefaultApp = () => (
   </Localization>
 );
 
-export default function IdurarOs() {
+export default function TekenaOs() {
   const { isLoggedIn } = useSelector(selectAuth);
 
   console.log(

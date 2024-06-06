@@ -2,7 +2,7 @@ import NotFound from '@/components/NotFound';
 
 import { ErpLayout } from '@/layout';
 import UpdateItem from '@/modules/ErpPanelModule/UpdateItem';
-import EmailForm from './componenets/EmailForm';
+import EmailForm from './components/EmailForm';
 
 import PageLoader from '@/components/PageLoader';
 
